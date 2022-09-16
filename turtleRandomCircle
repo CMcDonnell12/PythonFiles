@@ -1,0 +1,10 @@
+# turtleRandomCircle.py
+#@CMcDonnell 16/09/2022
+
+from turtle import *
+import random
+shape('turtle')
+color('#00e600')
+size = random.randrange(5,100)
+circle(size)
+print(size)
