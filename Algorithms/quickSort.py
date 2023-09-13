@@ -1,5 +1,5 @@
 # quickSort.py
-# @CMcDonnell 12/09/23
+# @CMcDonnell 12/09/2023
 # Sort a list using Quicksort
 myList = [85,24,63,45,17,31,96,50]
 
