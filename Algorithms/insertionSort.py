@@ -1,5 +1,5 @@
 # insertionSort.py
-# @coneill 12/10/2021
+# @CMcDonnell 12/09/2023
 # Sort a list using Insertion Sort
 myList = [85,24,63,45,17,31,96,50]
 for index in range(1, len(myList)):
